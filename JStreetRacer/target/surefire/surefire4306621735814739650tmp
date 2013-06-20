@@ -1,0 +1,36 @@
+#surefire
+#Sun Dec 11 23:52:01 GMT 2011
+testClassesDirectory=/Users/kevin_meakin/Documents/workspace/JStreetRacer/target/test-classes
+classPathUrl.4=/Users/kevin_meakin/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.8.1/lwjgl-platform-2.8.1-natives-linux.jar
+classPathUrl.3=/Users/kevin_meakin/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.8.1/lwjgl-platform-2.8.1-natives-windows.jar
+classPathUrl.2=/Users/kevin_meakin/.m2/repository/org/lwjgl/lwjgl/lwjgl/2.8.1/lwjgl-2.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/kevin_meakin/Documents/workspace/JStreetRacer/target/classes
+reportsDirectory=/Users/kevin_meakin/Documents/workspace/JStreetRacer/target/surefire-reports
+classPathUrl.0=/Users/kevin_meakin/Documents/workspace/JStreetRacer/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/kevin_meakin/Documents/workspace/JStreetRacer/src/test/java
+surefireClassPathUrl.1=/Users/kevin_meakin/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/Users/kevin_meakin/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.7.1/surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=/Users/kevin_meakin/Documents/workspace/JStreetRacer/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.11=/Users/kevin_meakin/.m2/repository/com/projectdarkstar/ext/org/lwjgl/lwjgl_util/2.0rc2/lwjgl_util-2.0rc2.jar
+classPathUrl.10=/Users/kevin_meakin/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
+classPathUrl.9=/Users/kevin_meakin/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+classPathUrl.8=/Users/kevin_meakin/.m2/repository/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar
+classPathUrl.7=/Users/kevin_meakin/.m2/repository/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+childDelegation=false
+classPathUrl.6=/Users/kevin_meakin/.m2/repository/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+classPathUrl.5=/Users/kevin_meakin/.m2/repository/org/lwjgl/lwjgl/lwjgl-platform/2.8.1/lwjgl-platform-2.8.1-natives-osx.jar

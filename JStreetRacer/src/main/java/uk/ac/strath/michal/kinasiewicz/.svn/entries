@@ -1,0 +1,34 @@
+8
+
+dir
+12
+https://graphics3dcar.googlecode.com/svn/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz
+https://graphics3dcar.googlecode.com/svn
+
+
+
+2011-12-07T13:23:51.657742Z
+12
+mikiones@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2219482-4e12-54cf-21d6-893358e7589a
+
+ObjLoader
+dir
+
+OpenGlScene
+dir
+

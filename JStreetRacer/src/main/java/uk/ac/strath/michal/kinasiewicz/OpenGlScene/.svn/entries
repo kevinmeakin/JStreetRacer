@@ -1,0 +1,86 @@
+8
+
+dir
+12
+https://graphics3dcar.googlecode.com/svn/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene
+https://graphics3dcar.googlecode.com/svn
+
+
+
+2011-12-07T13:23:51.657742Z
+12
+mikiones@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2219482-4e12-54cf-21d6-893358e7589a
+
+FBOExample.java
+file
+
+
+
+
+2011-12-07T13:16:57.000000Z
+3deb5f6570eef637ccba628b5355699d
+2011-12-06T11:54:49.380862Z
+5
+mikiones@gmail.com
+has-props
+
+GLApp
+dir
+
+GLObjects
+dir
+
+GameMap.java
+file
+
+
+
+
+2011-12-07T13:24:43.000000Z
+5228b99446d683a1c2ce585825ed1a6b
+2011-12-07T13:23:51.657742Z
+12
+mikiones@gmail.com
+has-props
+
+MapElement.java
+file
+
+
+
+
+2011-12-07T13:24:43.000000Z
+56836a9fd1b13bed50baeba7df65dedb
+2011-12-07T13:23:51.657742Z
+12
+mikiones@gmail.com
+has-props
+
+TestScene1.java
+file
+
+
+
+
+2011-12-07T13:16:58.000000Z
+249eb1d7e429cc8ee4bfb4b413365f76
+2011-12-06T11:54:49.380862Z
+5
+mikiones@gmail.com
+has-props
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects
+END
+iObjectBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/iObjectBorder.java
+END
+LightGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/LightGL.java
+END
+GLHightMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/GLHightMap.java
+END
+ObjectG3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/ObjectG3d.java
+END
+AbstractNamedGLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/AbstractNamedGLObject.java
+END
+CameraG3d.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/CameraG3d.java
+END
+AbstractGLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/AbstractGLObject.java
+END
+BoxObjectBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/BoxObjectBorder.java
+END
+GLO_Tree1.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/GLO_Tree1.java
+END
+CircleObjectBorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/CircleObjectBorder.java
+END
+MapObjectsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/5/graphics3dcar/JStreetRacer/src/main/java/uk/ac/strath/michal/kinasiewicz/OpenGlScene/GLObjects/MapObjectsManager.java
+END
